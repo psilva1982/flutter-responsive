@@ -1,6 +1,6 @@
-# teste
+# Flutter Responsive
 
-A new Flutter project.
+Responsive Flutter Course - Udemy
 
 ## Getting Started
 
